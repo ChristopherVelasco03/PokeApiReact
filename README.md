@@ -16,7 +16,7 @@ Esta es una aplicación web construida con React que te permite explorar el fasc
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tuusuario/pokereact-api.git
+   git clone https://github.com/ChristopherVelasco03/PokeApiReact
    ```
 
 2. **Instala las dependencias:**
@@ -36,10 +36,6 @@ Esta es una aplicación web construida con React que te permite explorar el fasc
 
 ¡Contribuciones son bienvenidas! Si tienes ideas para mejorar PokeReact API, siéntete libre de abrir un problema o enviar un pull request. Juntos podemos hacer de esta experiencia Pokémon algo aún más emocionante.
 
-## 📜 Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
 ---
 
-¡Esperamos que disfrutes explorando el mundo Pokémon con PokeReact API! 🌐✨
+¡Espero que disfrutes explorando el mundo Pokémon con PokeReact API! 🌐✨
